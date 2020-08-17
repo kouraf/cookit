@@ -3,6 +3,9 @@
     height: 100vh;
     padding-left: 20px;
     padding-right: 20px;
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 0 !important;
 }
 .cookit_icon {
     cursor: pointer;

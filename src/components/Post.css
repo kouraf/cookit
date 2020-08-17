@@ -1,0 +1,31 @@
+.post{
+    border-bottom: 1px solid #e8f5fe;
+}
+.avatar img {
+    height: 38px !important;
+}
+.avatar {
+    margin: 15px !important;
+}
+.post_card {
+    border:none !important;
+}
+.post_btn button{
+    background: none !important;
+    border: none !important;
+    color: grey !important;
+    width: 3em;
+    height: 3em;
+}
+
+.post_btn button:hover{
+    background-color: #e8f5fe !important;
+    border: none !important;
+    color: #50b7f5 !important;
+    width: 3em;
+    height: 3em;
+}
+.post_btn button:focus{
+    border: none !important;
+    box-shadow: none !important;
+}

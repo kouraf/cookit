@@ -5,13 +5,15 @@ import './App.css';
 
 function App() {
   return (
-    <div className="app row">
-      {/* navigation sidebar */}
-      <SideBar />
-      {/* recipes feed*/}
-      <Feed />
-      {/* */}
-      {/* */}
+    <div className="app container">
+      <div className="row">
+        {/* navigation sidebar */}
+        <SideBar />
+        {/* recipes feed*/}
+        <Feed />
+        {/* */}
+        {/* */}
+      </div>
     </div >
   );
 }

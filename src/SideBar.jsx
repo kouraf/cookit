@@ -15,7 +15,7 @@ const More = () => <i class="fa fa-ellipsis-h" aria-hidden="true"></i>;
 
 function SideBar() {
     return (
-        <div className="sidebar offset-md-1">
+        <div className="sidebar col-3 col-md-2">
 
             <div className="cookit_icon">
                 <Cookit />

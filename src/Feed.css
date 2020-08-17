@@ -1,3 +1,14 @@
+.col-6 {
+    padding: 0px !important;
+}
 .feed {
+    border-right: 1px solid #e8f5fe;
     overflow-y: scroll;
+  }
+  
+.feed_header{
+    background-color: white;
+    z-index: 100;
+    border: 1px solid #e8f5fe;
+    padding: 20px;
 }
