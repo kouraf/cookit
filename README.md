@@ -12,3 +12,8 @@ Day 2:
             -I created the feed component where i will be showing the posts
             -I created the post card with the name and the usernamne of users then i add the text and the photo or video field
             -I finally created the form post
+Day 3:
+           
+            -Setting up firebase and attached to my react
+            -I created the login and register form
+            -I added the logic for the login/out and the register. 
