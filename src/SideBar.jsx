@@ -3,15 +3,15 @@ import { Button } from 'reactstrap';
 import NavOption from './components/NavigationOption';
 import './SideBar.css'
 
-const Cookit = () => <i class="fa fa-cutlery" aria-hidden="true"></i>;
-const Home = () => <i class="fa fa-home" aria-hidden="true"></i>;
-const Explore = () => <i class="fa fa-hashtag" aria-hidden="true"></i>;
-const Notifications = () => <i class="fa fa-bell-o" aria-hidden="true"></i>;
-const Messages = () => <i class="fa fa-envelope-o" aria-hidden="true"></i>;
-const Bookmarks = () => <i class="fa fa-bookmark-o" aria-hidden="true"></i>;
-const Lists = () => <i class="fa fa-list" aria-hidden="true"></i>;
-const Profile = () => <i class="fa fa-user-o" aria-hidden="true"></i>;
-const More = () => <i class="fa fa-ellipsis-h" aria-hidden="true"></i>;
+const Cookit = () => <i className="fa fa-cutlery" aria-hidden="true"></i>;
+const Home = () => <i className="fa fa-home" aria-hidden="true"></i>;
+const Explore = () => <i className="fa fa-hashtag" aria-hidden="true"></i>;
+const Notifications = () => <i className="fa fa-bell-o" aria-hidden="true"></i>;
+const Messages = () => <i className="fa fa-envelope-o" aria-hidden="true"></i>;
+const Bookmarks = () => <i className="fa fa-bookmark-o" aria-hidden="true"></i>;
+const Lists = () => <i className="fa fa-list" aria-hidden="true"></i>;
+const Profile = () => <i className="fa fa-user-o" aria-hidden="true"></i>;
+const More = () => <i className="fa fa-ellipsis-h" aria-hidden="true"></i>;
 
 function SideBar() {
     return (

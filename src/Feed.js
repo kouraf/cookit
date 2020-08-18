@@ -7,7 +7,7 @@ export default function Feed() {
     return (
         <div className="col-7">
             <div className="feed_header sticky-top"><h4>Home</h4></div>
-            <div class="feed">
+            <div className="feed">
                 <PostBox />
                 <Post
                     name="someone"
